@@ -283,4 +283,20 @@
     goTop();
     preloader();
   });
+
+  /*============================================
+    Nice select
+  ============================================*/
+    $(".nice-select").niceSelect();
+
+    var selectList = $(".nice-select .list")
+    $(".nice-select .list").each(function() {
+        var list = $(this).children();
+        if (list.length > 5) {
+            $(this).css({
+                "height": "160px",
+                "overflow-y": "scroll"
+            })
+        }
+    })
 })(window.jQuery);
