@@ -62,3 +62,15 @@
 .cars-section-three {
   padding: 50px 0 100px;
 }
+
+.car-block-four .vin{
+    display: block;
+}
+
+.car-block-three .vin{
+    display: block;
+}
+
+.car-block-two .vin{
+    display: block;
+}
