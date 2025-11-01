@@ -38,7 +38,7 @@
 }
 
 .nice-select:after {
-    content: "";
+    content: '';
     display: block;
     width: 7px;
     height: 7px;
@@ -67,7 +67,7 @@
     -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
     margin-top: 0.25rem;
-    background-color: #050B20;
+    background-color: #050b20;
 }
 
 .nice-select .option {
@@ -88,12 +88,12 @@
 }
 
 .m-language .nice-select .current {
-    color: #050B20;
+    color: #050b20;
 }
 
 .m-language .nice-select:after {
-    border-right: 1px solid #050B20;
-    border-bottom: 1px solid #050B20;
+    border-right: 1px solid #050b20;
+    border-bottom: 1px solid #050b20;
 }
 
 /* end nice select */
@@ -130,7 +130,7 @@
 }
 
 .box-account:hover {
-    color: #405FF2;
+    color: #405ff2;
 }
 
 .nav-out-bar {
@@ -190,7 +190,7 @@
     border-radius: 10px 0 0 10px;
     padding: 0 15px;
     font-size: 16px;
-    color: #050B20;
+    color: #050b20;
 }
 
 .header-vin-search button {
@@ -199,7 +199,7 @@
     font-weight: 500;
     padding: 0 30px;
     border-radius: 0 10px 10px 0;
-    background-color: #405FF2;
+    background-color: #405ff2;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -207,7 +207,7 @@
 }
 
 .header-vin-search button:hover {
-    background-color: #0146A6;
+    background-color: #0146a6;
 }
 
 .header-style-v1 .header-inner .c-box .nav-out-bar {
@@ -333,7 +333,7 @@
 
 .m-vin-search button {
     width: 35px;
-    background-color: #0146A6;
+    background-color: #0146a6;
     border-radius: 0 7px 7px 0;
 }
 
