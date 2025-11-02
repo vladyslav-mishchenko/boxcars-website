@@ -351,6 +351,10 @@
 
 /* end offcanvas */
 
+.inventory-section h1 .vin {
+    display: block;
+}
+
 @media (max-width: 1399px) {
     .header-style-v1 .header-inner .c-box .nav-out-bar {
         margin-left: 25px;
